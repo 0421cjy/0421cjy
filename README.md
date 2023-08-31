@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Hello%World!&fontSize=90)
 
+- 🔭 I’m currently working on Pressa
+- 🌱 I’m currently learning C#
+- 📫 my blog: https://jettstream.tistory.com
+
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=0421cjy&theme=tokyonight&show_icons=true" width="42%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0421cjy&layout=compact&theme=tokyonight" />
