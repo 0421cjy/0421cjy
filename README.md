@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Hello%World!&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0421cjy&show_icons=true&theme=radical)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=0421cjy&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0421cjy&layout=compact&theme=tokyonight" />
+</a>
 
 <!--
 **0421cjy/0421cjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
