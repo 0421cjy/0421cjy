@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=150&section=header&text=Hello%World!&fontSize=90)
 
-- 🔭 I’m currently working on Pressa
-- 🌱 I’m currently learning C#
 - 📫 my blog: https://jettstream.tistory.com
 
 <!--
